@@ -1,0 +1,7 @@
+Belajar WEB:
+
+- Front End
+    - HTML
+    - CSS
+    - Javascript
+- Back End
