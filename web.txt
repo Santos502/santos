@@ -4,4 +4,5 @@ Belajar WEB:
     - HTML
     - CSS
     - Javascript
+    - React JS
 - Back End
