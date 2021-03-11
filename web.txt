@@ -5,4 +5,7 @@ Belajar WEB:
     - CSS
     - Javascript
     - React JS
+    - Vue JS
 - Back End
+    - PHP
+    - MySQL
